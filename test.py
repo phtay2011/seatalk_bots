@@ -5,9 +5,9 @@ headers = {
 }
 
 body = { "tag": "text",
-        "text": {"content": "TEST from AWS"}
+        "text": {"content": "So when Paul is on leave i can continue working. I can work 24/7"}
         }
 
 data = json.dumps(body)
 
-response = requests.post('https://openapi.seatalk.io/webhook/group/JKbYxfWXRj2PlbqWCwJ9Jw', headers=headers, data=data)
+response = requests.post('https://openapi.seatalk.io/webhook/group/YimMnwMARf6LBU6U-HKtWA', headers=headers, data=data)
