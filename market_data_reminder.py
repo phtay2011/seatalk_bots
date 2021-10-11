@@ -5,7 +5,7 @@ headers = {
 }
 
 body = { "tag": "text",
-        "text": {"content": "Dearest Nat, could i trouble you for the rates today, it will be of great help in my quest! FX Rates in by 3.55pm, the rest by 6.30pm ",
+        "text": {"content": "Dearest Nat, could i trouble you for the rates today, it will be of great help in my quest! FX Rates in by 3.55pm, the rest by 6.30pm -Sent from AWS ",
                 "mentioned_email_list": ['natalie.huang@seamoney.com']}
         }
 

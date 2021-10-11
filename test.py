@@ -5,7 +5,7 @@ headers = {
 }
 
 body = { "tag": "text",
-        "text": {"content": "So when Paul is on leave i can continue working. I can work 24/7"}
+        "text": {"content": "Sent from AWS"}
         }
 
 data = json.dumps(body)

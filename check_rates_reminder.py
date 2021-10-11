@@ -12,7 +12,7 @@ headers = {
 }
 
 body = { "tag": "text",
-        "text": {"content": "Hi, remember to check that all the rates are in qtm by 6.30pm. Rates include: 1)FX & FSP, 2) Swaps, 3) Deposit, 4) Bonds",
+        "text": {"content": "Hi, remember to check that all the rates are in qtm by 6.30pm. Rates include: 1)FX & FSP, 2) Swaps, 3) Deposit, 4) Bonds -Send From AWS",
                 "mentioned_email_list": ['tianli.woon@seamoney.com']}
         }
 
