@@ -14,6 +14,15 @@ body2 = { "tag": "text",
                 "mentioned_email_list": ['natalie.huang@seamoney.com']}
         }
 
-data = json.dumps(body2)
+        
+body3 = { "tag": "text",
+        "text": {"content": "[TEST] Selamat pagi Jake! could i trouble you for the rates today. All Rates in by 6.30pm",
+                "mentioned_email_list": ['jake.wen@seamoney.com']}
+        }
+
+data = json.dumps(body)
 
 response = requests.post('https://openapi.seatalk.io/webhook/group/YimMnwMARf6LBU6U-HKtWA', headers=headers, data=data)
+
+data3 = json.dumps(body3)
+#response3 = requests.post('https://openapi.seatalk.io/webhook/group/RxP3Cg97TRmIyzafYVW6KQ', headers=headers, data=data3)
