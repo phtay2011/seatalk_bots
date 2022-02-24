@@ -11,4 +11,4 @@ body = { "tag": "text",
 
 data = json.dumps(body)
 
-response = requests.post('https://openapi.seatalk.io/webhook/group/vQ_sH0dzRiOoya-f6oi7Ew', headers=headers, data=data)
+response = requests.post('https://openapi.seatalk.io/webhook/group/MCt9aJfnRpKtl_m_nYYZ3Q', headers=headers, data=data)
