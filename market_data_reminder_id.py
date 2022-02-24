@@ -4,8 +4,8 @@ headers = {
     'Content-Type': 'application/json',
 }
 body3 = { "tag": "text",
-        "text": {"content": "can help to refresh this file for today?",
-                "mentioned_email_list": ['jake.wen@seamoney.com']}
+        "text": {"content": "1) Jake to to refresh this file for today. 2) Fiona to manual upload the sec prices once Jake refreshed",
+                "mentioned_email_list": ['jake.wen@seamoney.com','fiona.coa@seabank.co.id']}
         }
 
 
