@@ -4,4 +4,3 @@
 #0 18 * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/regression_pm.py
 30 18 * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/market_data_reminder_id.py
 #* * * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/test.py
-* * * * * /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/sample.py
