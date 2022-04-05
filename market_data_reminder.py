@@ -5,8 +5,8 @@ headers = {
 }
 
 body = { "tag": "text",
-        "text": {"content": "Hi Nat/Kah Lun, kindly refresh the rate files for today. FX Rates in by 3.55pm, the rest by 6.30pm -Sent from AWS ",
-                "mentioned_email_list": ['natalie.huang@seamoney.com','kahlun.leong@maribank.com.sg']}
+        "text": {"content": "Hi Nat/Kah Lun, kindly refresh the rates file for today. FX Rates in by 3.55pm, the rest by 6.30pm -Sent from AWS ",
+                "mentioned_email_list": ['natalie.huang@maribank.com.sg','kahlun.leong@maribank.com.sg']}
         }
 
 data = json.dumps(body)
