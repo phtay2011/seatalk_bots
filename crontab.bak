@@ -1,5 +1,5 @@
 0 10 14,28 * * /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/reminder_bot.py
-* * * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/market_data_reminder.py
+#* * * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/market_data_reminder.py
 #0 18 * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/check_rates_reminder.py
 #0 18 * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/regression_pm.py
 30 18 * * 1,2,3,4,5 /usr/bin/python3 /home/ec2-user/environment/seatalk_bots/market_data_reminder_id.py
